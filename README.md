@@ -1,2 +1,2 @@
-# OOP_3
-Same as OOP_2
+Same as OOP_2.
+Too simple and possibly stupid
